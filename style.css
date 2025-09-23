@@ -83,7 +83,7 @@ a.button {
 
 #content h3 {
     color: lightcoral;
-    margin-left: 0px;
+    margin-left: 1px;
 }
 
 /* Footer */
@@ -109,6 +109,4 @@ a.button {
     width: 90%;
     margin-top: 20px;
 }
-html {
-    
-}
+
